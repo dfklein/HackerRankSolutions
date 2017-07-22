@@ -9,7 +9,7 @@ import java.util.Scanner;
  * Explicação: quando o índice da linha somado ao índice da coluna é maior ou igual ao calor máximo possível de índice da coluna, então
  * você deve imprimir o #.
  */
-public class C7Staircase {
+public class C07Staircase {
 
 	public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
