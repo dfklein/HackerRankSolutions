@@ -4,10 +4,12 @@ import java.util.Scanner;
 
 /**
  * https://www.hackerrank.com/challenges/grading
- * 
+ *
  * @status Pendente
  */
 public class C01GradingStudents {
+
+	int teste = 9;
 
 	static int[] solve(int[] grades) {
 		int[] resposta = new int[grades.length];
